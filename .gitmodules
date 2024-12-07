@@ -1,0 +1,15 @@
+[submodule "chat-service"]
+	path = chat-service
+	url = https://github.com/Deneros/opus-chat-service.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/Deneros/opus-eureka-server.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Deneros/opus-frontend.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/Deneros/opus-api-gateway.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/Deneros/opus-config-server.git
