@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+api-gateway/
+chat-service/
+config-server/
+eureka-server/
+frontend/
+jenkins/
